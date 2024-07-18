@@ -41,7 +41,7 @@ gcc server.c -o server
 This will display the server's PID.
 
 ## Sending a Message:
-#####Compile the client:
+##### Compile the client:
 
 ```sh
 gcc client.c -o client
